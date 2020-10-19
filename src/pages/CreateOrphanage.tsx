@@ -86,7 +86,7 @@ function handleMapClick(event : LeafletMouseEvent) {
             <legend>Dados</legend>
 
             <Map 
-              center={[-27.2092052,-49.6401092]} 
+              center={[-5.3801675,-49.1308129]} 
               style={{ width: '100%', height: 280 }}
               zoom={15}
               onclick={handleMapClick}
