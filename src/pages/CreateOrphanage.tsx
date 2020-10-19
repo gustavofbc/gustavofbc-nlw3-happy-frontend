@@ -83,7 +83,7 @@ function handleMapClick(event : LeafletMouseEvent) {
       <main>
         <form onSubmit={handleSubmit} className="create-orphanage-form">
           <fieldset>
-            <legend>Dados teste</legend>
+            <legend>Dados</legend>
 
             <Map 
               center={[-5.3801675,-49.1308129]} 
